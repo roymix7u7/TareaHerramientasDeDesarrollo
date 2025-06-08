@@ -1,0 +1,3 @@
+sudo mn --topo tree,4,3
+sudo mn --topo linear,5,4
+sudo mn --topo torus,3,4,5
